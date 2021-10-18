@@ -32,7 +32,7 @@ elif golongan == "C":
 else:
     potongan = 5500000*1/100
 
-#gajibershih
+#gajibersih
 if golongan == "A":
     gajibersih = 10000000 - potongan
 elif golongan == "B":
@@ -51,4 +51,4 @@ print("-----------------------------")
 print("Gaji Pokok :",  gajipokok)
 print("Potongan :", persenan, "%", potongan)
 print("----------------------------- -")
-print("Gaji Bersih :",  gajibershih)
+print("Gaji Bersih :",  gajibersih)
