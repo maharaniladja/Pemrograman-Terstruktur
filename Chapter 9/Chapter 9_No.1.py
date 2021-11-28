@@ -1,4 +1,4 @@
-#ubah MATEMATIKA menjadi MASEMASIKA
+#ubah MATEMATIKA menjadi MASEMASIKA:
 
 teks = 'MATEMATIKA'
 
